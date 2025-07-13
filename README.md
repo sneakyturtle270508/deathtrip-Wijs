@@ -218,7 +218,7 @@ Copyright (c) 2025 William Berge Grønsberg
 ## 👥 Credits
 
 - **🏢 Organization**: Ung i Trafikken (Youth in Traffic)
-- **👨‍💻 Developer**: William Berge Grønsberg
+- **👨‍💻 Developer**: William, Ib, Jacob, Stig
 - **🎨 Design**: Custom dark theme implementation
 - **📸 Assets**: Wikimedia Commons warning signs
 
